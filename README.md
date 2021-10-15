@@ -7,6 +7,31 @@
 
 <p align="left"> <a href="https://twitter.com/mayurvarma14" target="blank"><img src="https://img.shields.io/twitter/follow/mayurvarma14?logo=twitter&style=for-the-badge" alt="mayurvarma14" /></a> </p>
 
+#### Top Repositories ####
+
+
+<a href="https://github.com/mayurvarma14/Intelligent-Robotic-Arm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurvarma14&repo=Intelligent-Robotic-Arm&theme=default" />
+</a>
+<a href="https://github.com/mayurvarma14/blockchain-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurvarma14&repo=blockchain-demo&theme=default" />
+</a>
+<a href="https://github.com/mayurvarma14/ml-heart-disease">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurvarma14&repo=ml-heart-disease&theme=default" />
+</a>
+<a href="https://github.com/mayurvarma14/ecommerce-clothing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurvarma14&repo=ecommerce-clothing-app&theme=default" />
+</a>
+<a href="https://github.com/mayurvarma14/data-structure-c">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurvarma14&repo=data-structure-c&theme=default" />
+</a>
+<a href="https://github.com/mayurvarma14/docker-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurvarma14&repo=docker-react&theme=default" />
+</a>
+<br />
+<br />
+
+
 - 🌱 I’m currently learning **GoLang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayurvarma14](https://github.com/mayurvarma14)
