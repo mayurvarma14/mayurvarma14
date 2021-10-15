@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mayur Varma</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurvarma14&label=Profile%20views&color=0e75b6&style=flat" alt="mayurvarma14" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mayurvarma14&label=Profile%20views&color=0e75b6&style=flat" alt="mayurvarma14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurvarma14" alt="mayurvarma14" /></a> </p>
+- 🌱 I’m currently learning **GoLang**
 
-<p align="left"> <a href="https://twitter.com/mayurvarma14" target="blank"><img src="https://img.shields.io/twitter/follow/mayurvarma14?logo=twitter&style=for-the-badge" alt="mayurvarma14" /></a> </p>
+- 👨‍💻 All of my projects are available at [https://github.com/mayurvarma14](https://github.com/mayurvarma14)
+
+- 📝 I regularly write articles on [http://mayurvarma.com](http://mayurvarma.com)
+
+- 💬 Ask me about **NodeJS, React, Javascript, Docker, GoLang**
+
+- 📫 How to reach me **https://www.linkedin.com/in/mayurvarma14**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/mayurvarma14](https://www.linkedin.com/in/mayurvarma14)
+
+
+
 
 #### Top Repositories ####
 
@@ -31,18 +42,10 @@
 <br />
 <br />
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayurvarma14" alt="mayurvarma14" /></a> </p>
 
-- 🌱 I’m currently learning **GoLang**
+<p align="left"> <a href="https://twitter.com/mayurvarma14" target="blank"><img src="https://img.shields.io/twitter/follow/mayurvarma14?logo=twitter&style=for-the-badge" alt="mayurvarma14" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mayurvarma14](https://github.com/mayurvarma14)
-
-- 📝 I regularly write articles on [http://mayurvarma.com](http://mayurvarma.com)
-
-- 💬 Ask me about **React,Docker,Javascript,GoLang,NodeJS**
-
-- 📫 How to reach me **https://www.linkedin.com/in/mayurvarma14**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/mayurvarma14](https://www.linkedin.com/in/mayurvarma14)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
