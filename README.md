@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/mayurvarma14](https://github.com/mayurvarma14)
 
-- 📝 I regularly write articles on [http://mayurvarma.com/](http://mayurvarma.com/)
+- 📝 I regularly write articles on [http://mayurvarma.com](http://mayurvarma.com)
 
 - 💬 Ask me about **React,Docker,Javascript,GoLang,NodeJS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/mayurvarma14/**
+- 📫 How to reach me **https://www.linkedin.com/in/mayurvarma14**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mayurvarma14/](https://www.linkedin.com/in/mayurvarma14/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mayurvarma14](https://www.linkedin.com/in/mayurvarma14)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
