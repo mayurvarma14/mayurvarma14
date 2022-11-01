@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [http://mayurvarma.com](http://mayurvarma.com)
 
-- 💬 Ask me about **NodeJS, React, Javascript, Docker, GoLang**
+- 💬 Ask me about **NodeJS, React, Javascript, GoLang, Python, Docker, Kubernetes**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mayurvarma14**
 
