@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mayurvarma14&label=Profile%20views&color=0e75b6&style=flat" alt="mayurvarma14" /> </p>
 
-- 🌱 I’m currently learning **GoLang**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayurvarma14](https://github.com/mayurvarma14)
 
