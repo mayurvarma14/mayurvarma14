@@ -38,6 +38,9 @@
 <a href="https://github.com/mayurvarma14/docker-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurvarma14&repo=docker-react&theme=default" />
 </a>
+<a href="https://github.com/mayurvarma14/docker-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayurvarma14&repo=go-movie-review&theme=default" />
+</a>
 <br />
 <br />
 <h3 align="left">Languages and Tools:</h3>
